@@ -48,7 +48,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/Chanduveldi2211/realtime-analytics-dashboard.git
+git clone https://github.com/Pcveldi22/realtime-analytics-dashboard.git
 cd realtime-analytics-dashboard
 docker-compose up -d
 # Dashboard: http://localhost:3000
@@ -96,4 +96,4 @@ realtime-analytics-dashboard/
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-<p align="center">Made with ❤️ by <a href="https://github.com/Chanduveldi2211">Veldi Purna Chandu</a> | Senior Software Engineer</p>
+<p align="center">Made with ❤️ by <a href="https://github.com/Pcveldi22">Pc Veldi</a> | Senior Software Engineer</p>
